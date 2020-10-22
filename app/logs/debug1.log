@@ -1,0 +1,88 @@
+INFO 2020-10-20 13:57:07,216 views 14232 139687349159680 Trying to get store!
+INFO 2020-10-20 13:57:32,961 views 14270 139956792674048 Trying to get store!
+INFO 2020-10-20 13:57:33,939 views 14270 139956792674048 Trying to get store!
+INFO 2020-10-20 13:59:03,030 views 14350 140300659640064 Trying to get store!
+INFO 2020-10-20 13:59:03,929 views 14350 140300659640064 Trying to get store!
+INFO 2020-10-20 13:59:14,829 views 14373 140492825716480 Trying to get store!
+INFO 2020-10-20 13:59:15,583 views 14373 140492825716480 Trying to get store!
+INFO 2020-10-20 13:59:32,925 views 14400 140613077686016 Trying to get store!
+INFO 2020-10-20 13:59:32,926 views 14400 140613077686016 CAMPUS -- Store got successfully!
+INFO 2020-10-20 14:00:44,808 views 14504 139674819491584 Trying to get store  for CAMPUS !
+INFO 2020-10-20 14:00:44,809 views 14504 139674819491584 CAMPUS -- Store got successfully!
+INFO 2020-10-20 14:00:45,228 views 14504 139674819491584 Trying to get store  for CAMPUS !
+INFO 2020-10-20 14:00:45,229 views 14504 139674819491584 CAMPUS -- Store got successfully!
+INFO 2020-10-20 14:05:58,762 views 14579 139826915288832 Trying to refresh token!
+INFO 2020-10-20 14:05:58,762 token_creators 14579 139826915288832 Succesfully refresh token decoded!
+INFO 2020-10-20 14:05:58,764 token_creators 14579 139826915288832 Cookies set Succesfully!
+INFO 2020-10-20 14:05:58,764 views 14579 139826915288832 Token refresh succesful!
+INFO 2020-10-20 14:20:56,532 views 15059 140024024278784 Trying to get store  for UCSC !
+INFO 2020-10-20 14:20:56,539 views 15059 140024024278784 UCSC -- Store got successfully!
+INFO 2020-10-20 14:20:57,504 views 15059 140024024278784 Trying to get profile!
+INFO 2020-10-20 14:20:57,504 views 15059 140024024278784 Profile got successfully!
+ERROR 2020-10-20 14:20:59,093 auth_decorators 15059 140024024278784 The access token provided has expired!
+INFO 2020-10-20 14:20:59,238 views 15059 140024024278784 Trying to refresh token!
+INFO 2020-10-20 14:20:59,238 token_creators 15059 140024024278784 Succesfully refresh token decoded!
+INFO 2020-10-20 14:20:59,240 token_creators 15059 140024024278784 Cookies set Succesfully!
+INFO 2020-10-20 14:20:59,240 views 15059 140024024278784 Token refresh succesful!
+INFO 2020-10-20 14:20:59,263 views 15059 140024024278784 Trying to get profile!
+INFO 2020-10-20 14:20:59,263 views 15059 140024024278784 Profile got successfully!
+INFO 2020-10-20 14:21:01,139 views 15059 140024008668928 Trying to logout!
+INFO 2020-10-20 14:21:01,140 token_creators 15059 140024008668928 Cookies delete Succesfully!
+INFO 2020-10-20 14:21:01,140 views 15059 140024008668928 Logout successfully!
+INFO 2020-10-20 14:21:01,183 views 15059 140024008668928 Trying to get store  for UCSC !
+INFO 2020-10-20 14:21:01,189 views 15059 140024008668928 UCSC -- Store got successfully!
+ERROR 2020-10-20 14:21:02,122 auth_decorators 15059 140024024278784 Profile credentials were not found in the headers or body!
+INFO 2020-10-20 14:21:06,518 views 15059 140024024278784 Trying to get store  for UCSC !
+INFO 2020-10-20 14:21:06,533 views 15059 140024024278784 UCSC -- Store got successfully!
+ERROR 2020-10-20 14:21:07,505 auth_decorators 15059 140024024278784 Profile credentials were not found in the headers or body!
+ERROR 2020-10-20 14:32:20,279 auth_decorators 15424 140273411393280 Profile credentials were not found in the headers or body!
+INFO 2020-10-20 14:32:20,348 views 15424 140273411393280 Trying to get store  for UCSC !
+INFO 2020-10-20 14:32:20,354 views 15424 140273411393280 UCSC -- Store got successfully!
+ERROR 2020-10-20 14:32:21,196 auth_decorators 15424 140273411393280 Profile credentials were not found in the headers or body!
+ERROR 2020-10-20 14:32:36,275 auth_decorators 15424 140273411393280 Profile credentials were not found in the headers or body!
+INFO 2020-10-20 14:32:36,347 views 15424 140273411393280 Trying to get store  for UCSC !
+INFO 2020-10-20 14:32:36,355 views 15424 140273411393280 UCSC -- Store got successfully!
+ERROR 2020-10-20 14:32:36,903 auth_decorators 15424 140273411393280 Profile credentials were not found in the headers or body!
+INFO 2020-10-20 14:32:51,873 views 15424 140273411393280 Trying to get store  for CAMPUS !
+INFO 2020-10-20 14:32:51,882 views 15424 140273411393280 CAMPUS -- Store got successfully!
+ERROR 2020-10-20 14:32:52,466 auth_decorators 15424 140273411393280 Profile credentials were not found in the headers or body!
+INFO 2020-10-20 14:32:57,979 views 15424 140273411393280 Trying to get store  for UCSC !
+INFO 2020-10-20 14:32:57,991 views 15424 140273411393280 UCSC -- Store got successfully!
+INFO 2020-10-20 14:33:01,157 views 15485 139838713140992 Trying to get store  for UCSC !
+INFO 2020-10-20 14:33:01,169 views 15485 139838713140992 UCSC -- Store got successfully!
+ERROR 2020-10-20 14:33:01,736 auth_decorators 15485 139838713140992 Profile credentials were not found in the headers or body!
+ERROR 2020-10-20 14:33:03,800 auth_decorators 15495 140565979367168 Profile credentials were not found in the headers or body!
+INFO 2020-10-20 14:33:05,694 views 15495 140565979367168 Trying to get store  for CAMPUS !
+INFO 2020-10-20 14:33:05,707 views 15495 140565979367168 CAMPUS -- Store got successfully!
+ERROR 2020-10-20 14:33:06,262 auth_decorators 15495 140565979367168 Profile credentials were not found in the headers or body!
+INFO 2020-10-20 14:33:28,708 views 15516 140035529635584 Trying to get store  for CAMPUS !
+INFO 2020-10-20 14:33:28,717 views 15516 140035529635584 CAMPUS -- Store got successfully!
+ERROR 2020-10-20 14:33:29,273 auth_decorators 15516 140035529635584 Profile credentials were not found in the headers or body!
+INFO 2020-10-20 14:34:18,159 views 15516 140035529635584 Trying to get store  for UCSC !
+INFO 2020-10-20 14:34:18,170 views 15516 140035529635584 UCSC -- Store got successfully!
+ERROR 2020-10-20 14:34:18,810 auth_decorators 15516 140035529635584 Profile credentials were not found in the headers or body!
+INFO 2020-10-20 14:36:37,583 views 15646 140676440557312 Trying to get store  for CAMPUS !
+ERROR 2020-10-20 14:36:38,551 auth_decorators 15646 140676440557312 Profile credentials were not found in the headers or body!
+INFO 2020-10-20 14:36:44,004 views 15646 140676440557312 Trying to get store  for CAMPUS !
+INFO 2020-10-20 14:36:44,738 views 15646 140676352177920 Trying to get store  for CAMPUS !
+INFO 2020-10-20 14:36:45,205 views 15646 140676440557312 Trying to get store  for CAMPUS !
+ERROR 2020-10-20 14:36:45,750 auth_decorators 15646 140676352177920 Profile credentials were not found in the headers or body!
+INFO 2020-10-20 14:36:59,290 views 15700 140538278196992 Trying to get store  for CAMPUS !
+INFO 2020-10-20 14:37:26,749 views 15742 139851005503232 Trying to get store  for CAMPUS !
+INFO 2020-10-20 14:37:26,751 views 15742 139851005503232 campus -- Store got successfully!
+INFO 2020-10-20 14:37:38,331 views 15742 139850913150720 Trying to get store  for CAMPUS !
+INFO 2020-10-20 14:37:38,340 views 15742 139850913150720 campus -- Store got successfully!
+ERROR 2020-10-20 14:37:39,709 auth_decorators 15742 139850913150720 Profile credentials were not found in the headers or body!
+INFO 2020-10-20 14:38:41,538 views 15847 140465374926592 Trying to get store  for CAMPUS !
+INFO 2020-10-20 14:38:41,540 views 15847 140465374926592 Store for campus  got successfully!
+ERROR 2020-10-20 14:47:01,333 views 16121 140121082418944 Find Key error when try to Delete linking  from request session!
+INFO 2020-10-20 14:47:01,334 views 16121 140121082418944 Trying to login with google!
+INFO 2020-10-20 15:06:20,729 views 17701 140166069393152  Full requested url from call back API: /linkedin/callback/?error=user_cancelled_login&error_description=The+user+cancelled+LinkedIn+login&state=sHRG5hnUHsLo3wTNuiRjOAoTQFvFP4
+INFO 2020-10-20 15:06:20,730 views 17701 140166069393152 Login canceled!
+ERROR 2020-10-20 15:11:06,460 views 17963 139970486421248 Find Key error when try to get  querystring from request session!
+INFO 2020-10-20 15:11:06,460 views 17963 139970486421248 Login canceled!
+ERROR 2020-10-20 15:11:16,584 views 17963 139970486421248 Find Key error when try to get  querystring from request session!
+INFO 2020-10-20 15:11:16,585 views 17963 139970486421248 Login canceled!
+ERROR 2020-10-20 15:11:20,845 views 17963 139970486421248 Find Key error when try to get  querystring from request session!
+INFO 2020-10-20 15:11:20,845 views 17963 139970486421248 Login canceled!
+ERROR 2020-10-21 07:04:04,610 auth_decorators 13052 139730941892352 Profile credentials were not found in the headers or body!

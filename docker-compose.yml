@@ -9,7 +9,7 @@ services:
     ports:
       - 8000:8000
     env_file:
-      - ./.env.dev
+      - ./.env.dev-sample
     depends_on:
       - db
   db:
@@ -17,9 +17,9 @@ services:
     volumes:
       - postgres_data:/var/lib/postgresql/data/
     environment:
-      - POSTGRES_USER=hello_django
-      - POSTGRES_PASSWORD=hello_django
-      - POSTGRES_DB=hello_django_dev
+      - POSTGRES_USER=campus_auth_db
+      - POSTGRES_PASSWORD=campus3210
+      - POSTGRES_DB=campus_auth_db
 
 volumes:
   postgres_data:

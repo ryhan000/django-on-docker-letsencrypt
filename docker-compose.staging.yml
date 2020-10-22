@@ -5,14 +5,14 @@ services:
     build:
       context: ./app
       dockerfile: Dockerfile.prod
-    command: gunicorn hello_django.wsgi:application --bind 0.0.0.0:8000
+    command: gunicorn campus_identity.wsgi:application --bind 0.0.0.0:8000
     volumes:
       - static_volume:/home/app/web/staticfiles
       - media_volume:/home/app/web/mediafiles
     expose:
       - 8000
     env_file:
-      - .env.staging
+      - .env.staging-sample
     depends_on:
       - db
   db:
@@ -20,7 +20,7 @@ services:
     volumes:
       - postgres_data:/var/lib/postgresql/data/
     env_file:
-      - .env.staging.db
+      - .env.staging.db-sample
   nginx-proxy:
     container_name: nginx-proxy
     build: nginx
@@ -40,7 +40,7 @@ services:
   nginx-proxy-letsencrypt:
     image: jrcs/letsencrypt-nginx-proxy-companion
     env_file:
-      - .env.staging.proxy-companion
+      - .env.staging.proxy-companion-sample
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock:ro
       - certs:/etc/nginx/certs
